@@ -1,2 +1,2 @@
 messeg="cogratulation"
-print(messeg.capitalize())
+print(messeg.upper())
