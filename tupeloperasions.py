@@ -1,0 +1,13 @@
+tupleex=('hello',1.5,True,5)
+print(tupleex)
+tupleex=(1,4,7,2)
+print(tupleex)
+tupleex=tupleex+(5,)
+print(tupleex)
+tupleex=(10,34,10,24,50,10,50,34,24,70,68)
+print(tupleex.count(10))
+tupleex=(10,20,30,4,50,60,70,80,90)
+slici=tupleex[4:6]
+print(slici)
+nostart=tupleex[::7]
+print(nostart)
